@@ -1,0 +1,20 @@
+{
+  "name": "songyangphp/SignService",
+  "description": "songyang test",
+  "type": "library",
+  "license": "Apache-2.0",
+  "authors": [
+    {
+      "name": "songyangphp",
+      "email": "475511896@qq.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "SignService\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=5.5.0"
+  }
+}
